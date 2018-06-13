@@ -1,3 +1,11 @@
+### common
+
+- [cross-env](https://github.com/kentcdodds/cross-env) cross-env能跨平台地设置及使用环境变量
+- [nprogress](https://github.com/rstacruz/nprogress)  一个流行的进度条
+- [axios](https://github.com/axios/axios) 功能强大的网络请求库
+- [webpack](https://github.com/webpack/webpack) 功能强大的构建工具
+- [immutable](https://github.com/facebook/immutable-js) 
+
 ### react 系列
 
 - [ant-design](https://github.com/ant-design/ant-design)  由蚂蚁金服开源的ui框架，大而全
@@ -8,3 +16,4 @@
 - [react-dnd](https://github.com/react-dnd/react-dnd) 拖拽
 - [React Virtualized](https://github.com/bvaughn/react-virtualized) 这是一个可以高效地渲染大型列表和表格数据的 React 组件库，具有很少的依赖性，大多数都是由 NPM 自动管理。
 - [tween-one](https://github.com/react-component/tween-one) 一个矢量动画
+- [react-loadable](https://github.com/jamiebuilds/react-loadable) 一个小型的动态加载库
