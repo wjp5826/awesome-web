@@ -17,3 +17,4 @@
 - [React Virtualized](https://github.com/bvaughn/react-virtualized) 这是一个可以高效地渲染大型列表和表格数据的 React 组件库，具有很少的依赖性，大多数都是由 NPM 自动管理。
 - [tween-one](https://github.com/react-component/tween-one) 一个矢量动画
 - [react-loadable](https://github.com/jamiebuilds/react-loadable) 一个小型的动态加载库
+- [draft-js](https://github.com/facebook/draft-js) 基于`react`的一款富文本框架
