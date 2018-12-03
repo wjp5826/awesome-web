@@ -16,6 +16,7 @@
 - [axios](https://github.com/axios/axios) 功能强大的网络请求库
 - [webpack](https://github.com/webpack/webpack) 功能强大的构建工具
 - [immutable](https://github.com/facebook/immutable-js) 
+- [vedio.js](https://github.com/videojs/video.js) 强大的h5视频播放器
 
 ### react 系列
 
