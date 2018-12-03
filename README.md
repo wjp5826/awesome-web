@@ -5,6 +5,7 @@
 ### 浏览器篇
 
 - [浏览器揭秘（第一部分）](https://juejin.im/post/5b9b0932e51d450e9059c16a)
+- [浏览器揭秘（第二部分）](https://juejin.im/post/5bc293cf6fb9a05ce95c8468)
 
 ## npm包
 
