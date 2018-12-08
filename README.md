@@ -21,6 +21,7 @@
 - [webpack](https://github.com/webpack/webpack) 功能强大的构建工具
 - [immutable](https://github.com/facebook/immutable-js) 不可变数据
 - [vedio.js](https://github.com/videojs/video.js) 强大的h5视频播放器
+- [Quill](https://github.com/quilljs/quill) 一款优秀的、轻量级的文本编辑器
 
 ### react 系列
 
@@ -33,4 +34,4 @@
 - [React Virtualized](https://github.com/bvaughn/react-virtualized) 这是一个可以高效地渲染大型列表和表格数据的 React 组件库，具有很少的依赖性，大多数都是由 NPM 自动管理。
 - [tween-one](https://github.com/react-component/tween-one) 一个矢量动画
 - [react-loadable](https://github.com/jamiebuilds/react-loadable) 一个小型的动态加载库
-- [draft-js](https://github.com/facebook/draft-js) 基于`react`的一款富文本框架
+- [draft-js](https://github.com/facebook/draft-js) 基于`react`的一款富文本框架，理念先进，功能强大
