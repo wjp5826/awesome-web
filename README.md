@@ -7,6 +7,10 @@
 - [浏览器揭秘（第一部分）](https://juejin.im/post/5b9b0932e51d450e9059c16a)
 - [浏览器揭秘（第二部分）](https://juejin.im/post/5bc293cf6fb9a05ce95c8468)
 
+### js篇
+
+- [执行上下文和执行栈](https://juejin.im/post/5ba32171f265da0ab719a6d7)
+
 ## npm包
 
 ### 公共部分
