@@ -35,3 +35,7 @@
 - [tween-one](https://github.com/react-component/tween-one) 一个矢量动画
 - [react-loadable](https://github.com/jamiebuilds/react-loadable) 一个小型的动态加载库
 - [draft-js](https://github.com/facebook/draft-js) 基于`react`的一款富文本框架，理念先进，功能强大
+
+### 构建工具类
+
+- [webpack-chain](https://github.com/neutrinojs/webpack-chain)  用于生成和简化Webpack配置修改的链接API。
